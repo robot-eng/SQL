@@ -4,26 +4,26 @@ SELECT * FROM Tablename;
 ```
 ## คำสั่ง SQL ที่สำคัญที่สุดบางส่วน
 
-<li>SELECT - ดึงข้อมูลจากฐานข้อมูล</li>
+* $\color[rgb]{1,0,1}SELECT$ - ดึงข้อมูลจากฐานข้อมูล
 
-<li>UPDATE - ปรับปรุงข้อมูลในฐานข้อมูล</li>
+* UPDATE - ปรับปรุงข้อมูลในฐานข้อมูล
 
-<li>DELETE - ลบข้อมูลออกจากฐานข้อมูล</li>
+* DELETE - ลบข้อมูลออกจากฐานข้อมูล
 
-<li>INSERT INTO - แทรกข้อมูลใหม่ลงในฐานข้อมูล</li>
+* INSERT INTO - แทรกข้อมูลใหม่ลงในฐานข้อมูล
 
-<li>CREATE DATABASE - สร้างฐานข้อมูลใหม่</li>
+* CREATE DATABASE - สร้างฐานข้อมูลใหม่
 
-<li>ALTER DATABASE - แก้ไขฐานข้อมูล</li>
+* ALTER DATABASE - แก้ไขฐานข้อมูล
 
-<li>CREATE TABLE - สร้างตารางใหม่</li>
+* CREATE TABLE - สร้างตารางใหม่
 
-<li>ALTER TABLE - แก้ไขตาราง</li>
+* ALTER TABLE - แก้ไขตาราง
 
-<li>DROP TABLE - ลบตาราง</li>
+* DROP TABLE - ลบตาราง
 
-<li>CREATE INDEX - สร้างดัชนี (คีย์ค้นหา)</li>
+* CREATE INDEX - สร้างดัชนี (คีย์ค้นหา)
 
-<li>DROP INDEX - ลบดัชนี</li>
+* DROP INDEX - ลบดัชนี
 
 
