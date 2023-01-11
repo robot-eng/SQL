@@ -32,9 +32,9 @@
 <span style="color:green;">IF</span> Here, column1, column2, ... are the field names of the table you want to select data from. If you want to select all the fields available in the table, use the following syntax:
 
 ```SQL
-SELECT * FROM Tablename;
+SELECT * FROM Tablename; -- table you want to select data all
 -- OR
-SELECT CustomerName,City FROM Customers;
+SELECT CustomerName,City FROM Customers; -- table you want to select data from
 ```
 ## SELECT DISTINCT Syntax
 
