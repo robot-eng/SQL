@@ -25,8 +25,8 @@
 
 ## SELECT Syntax
 
-><span style="color:pink;">SELECT</span> column1, column2, ...
-<span style="color:pink;">FROM</span> table_name;
+>$\color{pink}{SELECT}$ column1, column2, ...
+$\color{pink}{FROM}$ table_name;
 
 <span style="color:green;">IF</span> Here, column1, column2, ... are the field names of the table you want to select data from. If you want to select all the fields available in the table, use the following syntax:
 
