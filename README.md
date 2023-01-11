@@ -33,5 +33,17 @@
 
 ```SQL
 SELECT * FROM Tablename;
+-- OR
+SELECT CustomerName,City FROM Customers;
 ```
+## SELECT DISTINCT Syntax
 
+The SELECT DISTINCT statement is used to return only distinct (different) values. ( คำสั่ง SELECT DISTINCT นี้ใช้เพื่อส่งคืนเฉพาะค่าที่แตกต่างกัน )
+> เช่นในข้อมูลมี thai thai ก็จะเหลือเเค่ thai
+```SQL
+SELECT DISTINCT Country FROM Customers;
+```
+หรือสามารถนับจำนวนข้อมูลที่ต้องการเเละไม่ซ้ำกันใช้
+```SQL
+SELECT COUNT(DISTINCT Country) FROM Customers;
+```
