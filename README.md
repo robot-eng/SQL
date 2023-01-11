@@ -1,27 +1,27 @@
 # SQL
 ## คำสั่ง SQL ที่สำคัญที่สุดบางส่วน
 
-* <span style="color:red;">SELECT</span> - ดึงข้อมูลจากฐานข้อมูล
+* $\color{red}{SELECT}$ - ดึงข้อมูลจากฐานข้อมูล
 
-* <span style="color:red;">UPDATE</span> - ปรับปรุงข้อมูลในฐานข้อมูล
+* $\color{red}{UPDATE}$ - ปรับปรุงข้อมูลในฐานข้อมูล
 
-* <span style="color:red;">DELETE</span> - ลบข้อมูลออกจากฐานข้อมูล
+* $\color{red}{DELETE}$ - ลบข้อมูลออกจากฐานข้อมูล
 
-* <span style="color:red;">INSERT INTO</span> - แทรกข้อมูลใหม่ลงในฐานข้อมูล
+* $\color{red}{INSERT}$ $\color{red}{INTO}$ - แทรกข้อมูลใหม่ลงในฐานข้อมูล
 
-* <span style="color:red;">CREATE DATABASE</span> - สร้างฐานข้อมูลใหม่
+* $\color{red}{CREATE}$ $\color{red}{DATABASE}$- สร้างฐานข้อมูลใหม่
 
-* <span style="color:red;">ALTER DATABASE</span> - แก้ไขฐานข้อมูล
+* $\color{red}{ALTER}$ $\color{red}{DATABASE}$ - แก้ไขฐานข้อมูล
 
-* <span style="color:red;">CREATE TABLE</span> - สร้างตารางใหม่
+* $\color{red}{CREATE}$ $\color{red}{TABLE}$ - สร้างตารางใหม่
 
-* <span style="color:red;">ALTER TABLE</span> - แก้ไขตาราง
+* $\color{red}{ALTER}$ $\color{red}{TABLE}$ - แก้ไขตาราง
 
-* <span style="color:red;">DROP TABLE</span> - ลบตาราง
+* $\color{red}{DROP}$ $\color{red}{TABLE}$ - ลบตาราง
 
-* <span style="color:red;">CREATE INDEX</span> - สร้างดัชนี (คีย์ค้นหา)
+* $\color{red}{CREATE}$ $\color{red}{INDEX}$ - สร้างดัชนี (คีย์ค้นหา)
 
-* <span style="color:red;">DROP INDEX</span> - ลบดัชนี
+* $\color{red}{DROP}$ $\color{red}{INDEX}$ - ลบดัชนี
 
 ## SELECT Syntax
 
@@ -33,4 +33,3 @@
 ```SQL
 SELECT * FROM table_name;
 ```
-
