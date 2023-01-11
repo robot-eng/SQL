@@ -7,21 +7,21 @@
 
 * $\color{red}{DELETE}$ - ลบข้อมูลออกจากฐานข้อมูล
 
-* $\color{red}{INSERT}$ $\color{red}{INTO}$ - แทรกข้อมูลใหม่ลงในฐานข้อมูล
+* $\color{red}{INSERT}$ $\color{red}{}$ $\color{red}{INTO}$ - แทรกข้อมูลใหม่ลงในฐานข้อมูล
 
-* $\color{red}{CREATE}$ $\color{red}{DATABASE}$- สร้างฐานข้อมูลใหม่
+* $\color{red}{CREATE}$ $\color{red}{}$ $\color{red}{DATABASE}$- สร้างฐานข้อมูลใหม่
 
-* $\color{red}{ALTER}$ $\color{red}{DATABASE}$ - แก้ไขฐานข้อมูล
+* $\color{red}{ALTER}$ $\color{red}{}$ $\color{red}{DATABASE}$ - แก้ไขฐานข้อมูล
 
-* $\color{red}{CREATE}$ $\color{red}{TABLE}$ - สร้างตารางใหม่
+* $\color{red}{CREATE}$ $\color{red}{}$ $\color{red}{TABLE}$ - สร้างตารางใหม่
 
-* $\color{red}{ALTER}$ $\color{red}{TABLE}$ - แก้ไขตาราง
+* $\color{red}{ALTER}$ $\color{red}{}$ $\color{red}{TABLE}$ - แก้ไขตาราง
 
-* $\color{red}{DROP}$ $\color{red}{TABLE}$ - ลบตาราง
+* $\color{red}{DROP}$ $\color{red}{}$ $\color{red}{TABLE}$ - ลบตาราง
 
-* $\color{red}{CREATE}$ $\color{red}{INDEX}$ - สร้างดัชนี (คีย์ค้นหา)
+* $\color{red}{CREATE}$ $\color{red}{}$ $\color{red}{INDEX}$ - สร้างดัชนี (คีย์ค้นหา)
 
-* $\color{red}{DROP}$ $\color{red}{INDEX}$ - ลบดัชนี
+* $\color{red}{DROP}$ $\color{red}{}$ $\color{red}{INDEX}$ - ลบดัชนี
 
 ## SELECT Syntax
 
