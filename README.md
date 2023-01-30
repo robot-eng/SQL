@@ -137,6 +137,8 @@ OUTPUT
 ```
 1252950
 ```
+### NOTE.
+
 ```SQL
 -- SELECT FirstName,LastName From customers
 
