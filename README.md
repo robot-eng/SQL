@@ -137,7 +137,7 @@ OUTPUT
 ```
 1252950
 ```
-
+```SQL
 -- SELECT FirstName,LastName From customers
 
 -- SELECT FirstName AS customers_FirstName,LastName AS customers_LastName From customers
@@ -199,6 +199,7 @@ OUTPUT
 -- SELECT AlbumId ,SUM(Milliseconds)/60000 AS SUMMinutes  FROM tracks GROUP BY AlbumId ORDER BY SUMMinutes DESC; -- รวม AlbumId ที่เหมือนกัน ว่าได้กี่นาที เเละเรียงจาก มากไปน้อย (จากผลรวมของ min)
 
 -- SELECT AlbumId ,Milliseconds/60000 AS SUMMinutes  FROM tracks ;
+```
 
 /*
 
